@@ -1,5 +1,5 @@
 
 //bot token
-var telegram_bot_id =  "5818190965:AAE_IX0Htv0Q5fo68abp29qAFGdcUFWEgHY";
+var telegram_bot_id =  "7958968995:AAEifX3EROWGSZtgmzj33B9wZHEv_Irjrhk";
 //chat id
-var chat_id ="@rdnuevo";
+var chat_id ="@Solucionestono";
